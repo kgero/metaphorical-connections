@@ -15,6 +15,6 @@ The 10 metaphorical prompts used were:
 * Peace is a rock
 * Surrender is a book
 
-Two evaluators looked at all poems and marked the category they believed the poem belonged in. Because evalutors could disagree, some poems are marked as being in two categories. For a given poem, if only one category is marked this means the evaluators agreed.
+Two evaluators looked at all poems and marked the category they believed the poem belonged in. Because evaluators could disagree, some poems are marked as being in two categories. For a given poem, if only one category is marked this means the evaluators agreed.
 
 For more information about the experiment, please consult the paper *Challenges in finding metaphorical connections* by Katy Gero and Lydia Chilton. 
